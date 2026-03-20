@@ -41,6 +41,10 @@ Requires [mdBook](https://rust-lang.github.io/mdBook/guide/installation.html):
 mdbook serve --open
 ```
 
+## Acknowledgments
+
+Thanks to Georgiy Treyvus, CloudStreet Product Manager, for the idea behind this book.
+
 ## License
 
 See [LICENSE](LICENSE).
