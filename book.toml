@@ -1,0 +1,5 @@
+[book]
+authors = ["David Liedle"]
+language = "en"
+src = "src"
+title = "Event-Driven Architecture"
